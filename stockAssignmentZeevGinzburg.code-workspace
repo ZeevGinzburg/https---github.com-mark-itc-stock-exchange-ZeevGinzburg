@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "stock-exchange-ZeevGinzburg",
+			"path": "../../../../GitHub/stock-exchange-ZeevGinzburg/stock-exchange-ZeevGinzburg"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "stockAssignmentZeevGinzburg"
+	}
+}
